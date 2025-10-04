@@ -16,14 +16,8 @@ This project is a **FastAPI**-based application that evaluates student eligibili
 
 ---
 
-## Project Structure
-student_eligibility_api/
-│
-├── main.py # FastAPI backend
-├── courses_data.py # Contains course data and subjects
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── students.db # SQLite database (created automatically)
+<img width="240" height="97" alt="image" src="https://github.com/user-attachments/assets/1cb8a22f-0ef4-44e9-8fe4-1fc7a87d263e" />
+
 
 ## API Endpoint
 **POST** `/check-eligibility`  
@@ -39,30 +33,7 @@ NumPy
 Uvicorn
 
 
-## Project workflow diagram
-POST /check-eligibility
-         │
-         ▼
-   Eligible Class
-         │
-         ▼
-  everything() method
-         │
-   ┌─────────────Validation Chain─────────────┐
-   │ name_check → age_check → gender_check → marks_check → desired_course_check │
-   └──────────────────────────────────────────┘
-         │
-         ▼
-   Data Cleaning & Normalization
-         │
-         ▼
-   Store in SQLite Database
-         │
-         ▼
-   Eligibility Calculation
-         │
-         ▼
-   JSON Response (eligible courses)
+<img width="324" height="281" alt="image" src="https://github.com/user-attachments/assets/439c918f-1ede-41e3-bc2d-0065aebfbed5" />
 
 
 ## How to Run
