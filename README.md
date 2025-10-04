@@ -16,7 +16,7 @@ This project is a **FastAPI**-based application that evaluates student eligibili
 
 ---
 
-<img width="240" height="97" alt="image" src="https://github.com/user-attachments/assets/1cb8a22f-0ef4-44e9-8fe4-1fc7a87d263e" />
+<img width="300" height="110" alt="image" src="https://github.com/user-attachments/assets/1cb8a22f-0ef4-44e9-8fe4-1fc7a87d263e" />
 
 
 ## API Endpoint
