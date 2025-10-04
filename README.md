@@ -32,7 +32,7 @@ Pandas
 NumPy
 Uvicorn
 
-<img width="700" height="1200" alt="image" src="https://github.com/user-attachments/assets/83ac1f23-4869-405c-bd06-2b49e0a0c216" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/83ac1f23-4869-405c-bd06-2b49e0a0c216" />
 
 
 ## How to Run
